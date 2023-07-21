@@ -4,7 +4,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;">
+  width: 100%;
+  ">
 
 <!--
 **axis0047/axis0047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
