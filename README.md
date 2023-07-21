@@ -1,6 +1,10 @@
 <!--![FavoriteEntireCrownofthornsstarfish-size_restricted](https://github.com/axis0047/axis0047/assets/109018994/1197aedf-70f0-43f5-893a-7167601f3b52)-->
 
-<img src="https://github.com/axis0047/axis0047/assets/109018994/1197aedf-70f0-43f5-893a-7167601f3b52" align="center">
+<img src="https://github.com/axis0047/axis0047/assets/109018994/1197aedf-70f0-43f5-893a-7167601f3b52" style=" 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
 
 <!--
 **axis0047/axis0047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
